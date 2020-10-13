@@ -1,0 +1,118 @@
+.wrapper {
+  margin-top: 200px;
+}
+
+.stroka {
+  background-color: #F7C122;
+  height: 35px;
+  width: 280px;
+  text-align: center;
+  padding-top: 10px;
+  margin: 0 auto;
+}
+.stroka span {
+  letter-spacing: -3px;
+  font-weight: 600;
+  font-size: 17px;
+  color: #F7C12C;
+}
+
+.span1 {
+  animation: dnone 30ms forwards 0ms;
+}
+
+.span2 {
+  animation: dnone 30ms forwards 122ms;
+}
+
+.span3 {
+  animation: dnone 30ms forwards 244ms;
+}
+
+.span4 {
+  animation: dnone 30ms forwards 366ms;
+}
+
+.span5 {
+  animation: dnone 30ms forwards 488ms;
+}
+
+.span6 {
+  animation: dnone 30ms forwards 610ms;
+}
+
+.span7 {
+  margin-right: 4px;
+  animation: dnone 30ms forwards 732ms;
+}
+
+.span8 {
+  animation: dnone 30ms forwards 854ms;
+}
+
+.span9 {
+  animation: dnone 30ms forwards 976ms;
+}
+
+.span10 {
+  margin-right: 4px;
+  animation: dnone 30ms forwards 1098ms;
+}
+
+.span11 {
+  animation: dnone 30ms forwards 1220ms;
+}
+
+.span12 {
+  animation: dnone 30ms forwards 1342ms;
+}
+
+.span13 {
+  margin-right: 4px;
+  animation: dnone 30ms forwards 1446ms;
+}
+
+.span14 {
+  animation: dnone 30ms forwards 1586ms;
+}
+
+.span15 {
+  margin-right: 4px;
+  animation: dnone 30ms forwards 1708ms;
+}
+
+.span16 {
+  animation: dnone 30ms forwards 1830ms;
+}
+
+.span17 {
+  margin-right: 4px;
+  animation: dnone 30ms forwards 1952ms;
+}
+
+.span18 {
+  animation: dnone 30ms forwards 2074ms;
+}
+
+.span19 {
+  animation: dnone 30ms forwards 2196ms;
+}
+
+.span20 {
+  animation: dnone 30ms forwards 2318ms;
+}
+
+.span21 {
+  animation: dnone 30ms forwards 2440ms;
+}
+
+.span22 {
+  animation: dnone 30ms forwards 2562ms;
+}
+
+@keyframes dnone {
+  100% {
+    font-size: 17;
+    color: #000;
+  }
+}
